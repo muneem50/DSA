@@ -9,3 +9,4 @@
 * Linear Search
 * Binary Search
 
+<img src="search.png" alt="CHEESE!" width="900" height="700">
